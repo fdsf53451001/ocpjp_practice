@@ -1,4 +1,5 @@
 
+
 public class Thread_Practice_2 implements Runnable{
 	@Override
 	public void run() {

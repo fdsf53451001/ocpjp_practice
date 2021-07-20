@@ -1,4 +1,5 @@
 
+
 public class quiz_7_11 {
 	String name;
 	int age;

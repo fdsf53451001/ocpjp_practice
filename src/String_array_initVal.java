@@ -1,4 +1,5 @@
 
+
 public class String_array_initVal {
 	String[] s1 = new String[3];
 	public static void main(String[] args) {

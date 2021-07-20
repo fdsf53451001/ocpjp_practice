@@ -1,4 +1,5 @@
 
+
 public class nested_class {
 	class InnerClass{
 		public void out() {

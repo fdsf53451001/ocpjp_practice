@@ -1,4 +1,5 @@
 
+
 public class enum_practice {
 	public static mystate st = mystate.sleeping;
 	public static void main(String[] args) {

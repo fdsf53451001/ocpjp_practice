@@ -1,4 +1,5 @@
 
+
 public class singleton_design {
 	private static final singleton_design Item = new singleton_design();
 	private int num=10;

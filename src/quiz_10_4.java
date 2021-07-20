@@ -1,4 +1,5 @@
 
+
 public class quiz_10_4 {
 	public static void main(String[] args) {
 		Thread1 t1 = new Thread1();

@@ -1,4 +1,5 @@
 
+
 public class Thread_Practice_1 extends Thread{
 	@Override
 	public void run() {
